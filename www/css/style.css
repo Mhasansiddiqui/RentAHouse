@@ -1,0 +1,37 @@
+.icon {
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	fill: currentColor;
+     font-size: 48px;
+}
+ a h3 {
+    margin-left: 15px !important;
+}
+.fill-color1 {
+	fill: #232321;
+}
+.fill-color2 {
+	fill: #2e2d2b;
+}
+.fill-color3 {
+	fill: #2f2f31;
+}
+.fill-color4 {
+	fill: #36363a;
+}
+.fill-color5 {
+	fill: #414144;
+}
+.fill-color6 {
+	fill: #515151;
+}
+.fill-color7 {
+	fill: #006df0;
+}
+.fill-color8 {
+	fill: #91dc5a;
+}
+.fill-color9 {
+	fill: #bfa380;
+}
